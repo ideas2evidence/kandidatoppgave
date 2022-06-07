@@ -1,0 +1,5 @@
+venv/
+xml_oppgave.Rproj
+env/
+.Rproj.user/
+parse_xml_full.py
